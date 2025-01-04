@@ -53,7 +53,3 @@ This app is build for Test Deployment on [Arlink](https://arlink.arweave.net) & 
 
 - This project was bootstrapped with [Vite](https://vitejs.dev/).
 - Special ♡ to [0xnas](https://github.com/iamnas), hnfdm & all the contributors of the various libraries used in this project.
-
-Published on Protocol.land [![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/<7000b29f-9bec-4137-a584-d75d50433dbe>)
-
-
